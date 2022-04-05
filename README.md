@@ -1,7 +1,6 @@
 ### Opa, Bem Vindo 👋
 
 - 🌱 Estudo programação para ser full stack
-- 📫 Contate comigo lucassfs2001@gmail.com
 - 😄 Pronouns: Ele/Dele
 
 <div align="center">
