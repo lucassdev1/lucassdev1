@@ -1,7 +1,7 @@
 ### Sea BienVenido 👋
 
 - 👨‍💻 Estudiando programación para ser full stack
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronouns: El
 
 ##
 
