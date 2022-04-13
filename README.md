@@ -26,11 +26,12 @@
   
   <div>
   
-   **Lenguagens que estoy estudiando:**
- 
- ## FRONT-END
+  - Lenguagens que estoy estudiando:
+  </br>
   
-  <div style="display: inline_block"><br>
+ # FRONT-END
+ 
+   <div style="display: inline_block"><br>
   <code><img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
   <code><img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
   <code><img align="center" alt="Lucas-JS" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/></code>
@@ -44,7 +45,7 @@
   </br>
   </br>
   
-  ## BACK-END
+  # BACK-END
   
   <div style="display: inline_block"><br>
   <code><img align="center" alt="Lucas-FIREBASE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"></code>
