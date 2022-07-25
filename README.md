@@ -1,6 +1,6 @@
 ### Sea BienVenido 👋
 
-- 👨‍💻 Estudiando programación para ser full stack
+- 👨‍💻 Estudiando programación para ser Desarrollador Web
 - 😄 Pronouns: El
 
 ##
@@ -40,16 +40,6 @@
   
  
   </br>
-  </br>
-  </br>
-  
-  # BACK-END
-  
-  <div style="display: inline_block"><br>
-  <code><img align="center" alt="Lucas-MONGO_DB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></code>
-      </div>
-      
-  
   </br>
   </br>
   </br>
