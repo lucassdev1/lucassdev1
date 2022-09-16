@@ -6,7 +6,7 @@
 ##
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://user-images.githubusercontent.com/98552122/162481498-ddf1d046-a5cd-4c36-bff3-974a0f1053ad.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://user-images.githubusercontent.com/98552122/190827807-521de8a8-28b9-4b70-85e0-a9478d7eb415.gif">
 </div>
   
 </br>
@@ -16,8 +16,8 @@
 
 <div align="center">
   <a href="https://github.com/lucassdev1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucassdev1&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassdev1&layout=compact&langs_count=7&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucassdev1&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassdev1&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
   
   </br>
@@ -26,18 +26,24 @@
   
   <div>
   
-  - Lenguagens que estoy estudiando:
-  </br>
-  
- # FRONT-END
+  ### Lenguagens que estoy estudiando:
+   
+   FRONT-END
  
    <div style="display: inline_block"><br>
   <code><img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
   <code><img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
   <code><img align="center" alt="Lucas-JS" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/></code>
  
-  </br>
-  </br>
+ <br>
+ <br>
+ <br>
+ 
+  MOBILE
+  
+  **PRONTO**
+ 
+ 
   </br>
   </br>
   </div>
