@@ -37,18 +37,11 @@
  
  <br>
  <br>
- <br>
  
-  MOBILE
-  
-  **PRONTO**
- 
- 
-  </br>
-  </br>
-  </div>
-  
-  </br>
+</br>
+</br>
+</div>
+
   </br>
   - Contacte Comigo
 <div>
