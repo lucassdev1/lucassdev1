@@ -1,7 +1,8 @@
-### Sea BienVenido 👋
+### Sea BienVenido(a) 👋
 
-- 👨‍💻 Estudiando programación para ser Desarrollador Web
-- 😄 Pronouns: El
+Hey Amigo(a) Dev
+Bueno espero que te guste mis proyectos =)
+Soy Lucas Felipe un chico apaisonado por la programación web, ya que al ser un chico curioso siempre busco aprender cosas nuevas para tener más conocimiento actualmente estudio JS y Python.
 
 ##
 
@@ -34,6 +35,7 @@
   <code><img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
   <code><img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
   <code><img align="center" alt="Lucas-JS" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/></code>
+  <code><img align="center" alt="Lucas-Py" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></code>
  
  <br>
  <br>
