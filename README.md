@@ -1,8 +1,7 @@
 ### Sea BienVenido(a) 👋
 
-Hey Amigo(a) Dev
-Bueno espero que te guste mis proyectos =)
-Soy Lucas Felipe un chico apaisonado por la programación web, ya que al ser un chico curioso siempre busco aprender cosas nuevas para tener más conocimiento actualmente estudio JS y Python.
+Hey Amigo(a) Dev<br>
+Antes de todo espero que te guste mis proyectos =)<br>
 
 ##
 
