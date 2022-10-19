@@ -27,8 +27,6 @@ Antes de todo espero que te guste mis proyectos =)<br>
   <div>
   
   ### Lenguagens que estoy estudiando:
-   
-   FRONT-END
  
    <div style="display: inline_block"><br>
   <code><img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
