@@ -1,7 +1,8 @@
-### Sea BienVenido(a) 👋
+### Sea Bienvenido(a) 👋
 
 Hey Amigo(a) Dev<br>
 Antes de todo espero que te guste mis proyectos =)<br>
+
 
 ##
 
@@ -32,7 +33,6 @@ Antes de todo espero que te guste mis proyectos =)<br>
   <code><img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
   <code><img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
   <code><img align="center" alt="Lucas-JS" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/></code>
-  <code><img align="center" alt="Lucas-Py" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></code>
  
  <br>
  <br>
