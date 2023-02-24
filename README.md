@@ -13,12 +13,9 @@ Empecé a estudiar programación por curiosidad mediante youtube hace 8 meses. A
   <div>
   
   ### Lenguages que estoy estudiando:
- 
-   <div style="display: inline_block"><br>
-  <code><img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
-  <code><img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
-  <code><img align="center" alt="Lucas-JS" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/></code>
- 
+ <div style="display: inline_block">
+  <img align="center" alt="Lucas-PYTHON" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+   
 </br>
 </br>
 </div>
@@ -43,4 +40,4 @@ Empecé a estudiar programación por curiosidad mediante youtube hace 8 meses. A
 
 ##
   
-Gracias Por Accesar =)
+***Gracias por visitarme =)***
