@@ -3,7 +3,7 @@
 ### Sobre mi 👇
 
 Hey Amigo(a) =)<br>
-Soy Lucas Felipe un chico brasileño y joven apaisonado por la programación.<br>
+Soy Lucas Felipe un chico brasileño y joven apasionado por la programación.<br>
 Empecé a estudiar programación por curiosidad mediante youtube hace 8 meses. Actualmente sigo estudiando para ampliar mi conocimiento en la programación.
   
   </br>
