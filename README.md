@@ -12,7 +12,7 @@ Empecé a estudiar programación por curiosidad mediante youtube hace 8 mes pero
   
   <div>
   
-  ### Lenguages que estoy estudiando:
+  ### Lenguajes que estoy estudiando:
  <div style="display: inline_block">
   <img align="center" alt="Lucas-PYTHON" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
    
@@ -20,7 +20,10 @@ Empecé a estudiar programación por curiosidad mediante youtube hace 8 mes pero
 </br>
 </div>
 
-<div>
+  ### Lenguajes que he aprendido:
+<div style="display: inline_block">
+  <img align="center" alt="Lucas-HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
+  
   
   </div>
   
